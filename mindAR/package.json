@@ -1,0 +1,15 @@
+{
+  "name": "mindar",
+  "version": "1.0.0",
+  "description": "Prototyp AR-Anwendung mit mindAR",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Rossmeier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

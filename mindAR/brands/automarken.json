@@ -1,0 +1,32 @@
+{
+	"volkswagen": {
+		"name": "Volkswagen",
+		"year": "1937",
+		"country": "Wolfsburg, Deutschland",
+		"car": "VW T2 (1963)"
+	},
+	"bmw": {
+		"name": "BMW",
+		"year": "1916",
+		"country": "München, Deutschland",
+		"car": "BMW E36 M3 (1995)"
+	},
+	"porsche": {
+		"name": "Porsche",
+		"year": "1931",
+		"country": "Stuttgart, Deutschland",
+		"car": "Porsche 911 (1963)"
+	},
+	"toyota": {
+		"name": "Toyota",
+		"year": "1937",
+		"country": "Toyota, Japan",
+		"car": "Toyota Supra (1986)"
+	},
+	"audi": {
+		"name": "Audi",
+		"year": "1909",
+		"country": "Ingolstadt, Deutschland",
+		"car": "Audi RS5 (2018)"
+	}
+}

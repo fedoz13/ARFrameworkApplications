@@ -1,4 +1,6 @@
 # ARFrameworkApplications
+Dieses Repository enthält die Prototypen-Anwendungen zum Testen der Frameworks ARKit, mindAR und Vuforia, die im Rahmen der Seminararbeit im Fach "Wissenschaftliches Arbeiten" erstellt wurden.
+
 
 This work is based on
 - "Audi RS5" (https://sketchfab.com/3d-models/audi-rs5-75d636ab26b1423ca61ffd0fd758fd0a) by WillisChiejina (https://sketchfab.com/WillisChiejina)

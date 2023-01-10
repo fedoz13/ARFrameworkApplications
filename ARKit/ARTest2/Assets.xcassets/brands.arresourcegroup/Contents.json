@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "audi.arreferenceimage"
+    },
+    {
+      "filename" : "bmw.arreferenceimage"
+    },
+    {
+      "filename" : "porsche.arreferenceimage"
+    },
+    {
+      "filename" : "toyota.arreferenceimage"
+    },
+    {
+      "filename" : "volkswagen.arreferenceimage"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"volkswagen": {
+		"name": "Volkswagen",
+		"year": "1937",
+		"country": "Wolfsburg, Deutschland",
+		"car": "bulli",
+	},
+	"bmw": {
+		"name": "BMW",
+		"year": "1916",
+		"country": "München, Deutschland",
+		"car": "m3",
+	},
+	"porsche": {
+		"name": "Porsche",
+		"year": "1931",
+		"country": "Stuttgart, Deutschland",
+		"car": "",
+	},
+	"toyota": {
+		"name": "Toyota",
+		"year": "1937",
+		"country": "Toyota, Japan",
+		"car": "",
+	},
+	"audi": {
+		"name": "Audi",
+		"year": "1909",
+		"country": "Ingolstadt, Deutschland",
+		"car": "",
+	},
+}
